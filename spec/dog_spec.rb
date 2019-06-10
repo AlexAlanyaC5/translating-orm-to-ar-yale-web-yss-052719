@@ -76,5 +76,3 @@ describe "Dog" do
   end
 
 end
-
-ActiveRecord::Base.establish_connection(sql)
